@@ -17,7 +17,10 @@ or the latest command from http://brew.sh/
 `$ brew doctor`
 
 3. clone this project by 
-`$ git clone https://github.com/yetsun/mac_setup.git'
+
+`$ git clone https://github.com/yetsun/mac_setup.git`
+
 `$ cd mac_setup`
+
 `$ ./setup.sh`
 
