@@ -9,4 +9,6 @@ npm install mongoose
 #install maven
 brew install maven
 
+#install wget
+brew install wget
 
